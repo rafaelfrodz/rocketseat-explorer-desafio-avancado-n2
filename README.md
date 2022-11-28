@@ -6,14 +6,14 @@ Nesse desafio, você deverá recriar uma aplicação, a partir de um layou
 
 # Figma da aplicação
 
-<img alt="screenshot da página web do layout no figma" src="https://i.imgur.com/0ABqArA.png">
+<img alt="screenshot da página web do layout no figma" src="https://i.imgur.com/aHSy2uk.png">
 
 ## Objetivo
 
 Aprender como realizar a manipulação de elementos utilizando HTML e CSS.
 
 ## Screenshot do projeto
-<img alt="screenshot da página web da aplicação" src="https://i.imgur.com/0ABqArA.png">
+<img alt="screenshot da página web da aplicação" src="https://i.imgur.com/bpghhCY.png">
 
 [Clique aqui para acessar a página](https://rafaelfrodz.github.io/rocketseat-explorer-desafio01/)
 
